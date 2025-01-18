@@ -8,7 +8,9 @@ This project finds the shortest connection between two actors using IMDb data. I
   In terminal, change directory to the folder in which degrees.py and testing_data folder exist.
   
 3. **Run the Program**  
+   ```bash
    $ python degrees.py testing_dat
+   ```
 
 4. **Example Output**  
    ```bash
