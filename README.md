@@ -1,6 +1,6 @@
 # Degrees of Separation
 
-This project finds the shortest connection between two actors using IMDb data. It models actors as **nodes** and movies as **edges**, implementing **Breadth-First Search (BFS)** to determine the minimal degrees of separation.
+This project finds the shortest connection between two actors using IMDb data. It models actors as **nodes** and movies as **edges**, implementing **Breadth-First Search (BFS)** to determine the minimal degrees of separation. 
 
 ## Usage
 1. **Download & Setup**  
